@@ -18,7 +18,7 @@ A dark VS Code color theme inspired by my dragon character 🐉
 3. Press `F5` to launch an Extension Development Host with the theme active
 
 ### From a packaged `.vsix`
-1. Download the `.vsix` from [Releases]([https://github/veyldrakon/themedrakon/releases](https://github.com/veyldraken/themedraken/releases))
+1. Download the `.vsix` from [Releases](https://github.com/veyldraken/themedraken/releases)
 2. In VS Code, open the Command Palette (`Ctrl+Shift+P`)
 3. Run **Extensions: Install from VSIX...** and select the file
 
@@ -28,7 +28,7 @@ Once installed, open the Command Palette and run **Preferences: Color Theme**, t
 
 ## Feedback
 
-Found a color that clashes or a scope that's not covered? Open an [issue]([https://github/veyldrakon/themedrakon/issues](https://github.com/veyldraken/themedraken/issues)).
+Found a color that clashes or a scope that's not covered? Open an [issue](https://github.com/veyldraken/themedraken/issues)
 
 ## License
 
